@@ -2,7 +2,7 @@
 Arduino Project Alarm system based on distance from the alarm
 Behavior:
 Blue LED:
-Turns on when the distance is ≤ 50 cm (danger zone).
+Turns on/ buzzes when the distance is ≤ 50 cm (danger zone).
 White LED:
 Turns on when the distance is > 50 cm and ≤ 100 cm (caution zone).
 Green LED:
